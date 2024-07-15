@@ -1,0 +1,7 @@
+# Banty
+First day in hub
+#include<stdio.h>
+#include<conio.h>
+void main() 
+{printf(banty)
+}
